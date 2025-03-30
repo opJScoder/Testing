@@ -254,7 +254,7 @@ img {
   -webkit-transform: translate(-50%, -27%);
   -ms-transform: translate(-50%, -27%);
   -moz-transform: translate(-50%, -27%);
-  background: url('priyeshsir-vidhyapeeth-team.webp') 0 0/cover;
+  background: url('https://opjscoder.github.io/Projects/Gift/priyeshsir-vidhyapeeth-team.webp') 0 0/cover;
   left: 50%
 }
 
@@ -319,13 +319,13 @@ h1 i {
   align-items: center;
   border-radius: 50%;
   /* box-shadow: inset 0 0 10px 5px #fffFFFB8, 0 0 10px 1px #000000B8; */
-  background: url('priyeshsir-vidhyapeeth-background.webp') 0 0/cover #111
+  background: url('https://opjscoder.github.io/Projects/Gift/priyeshsir-vidhyapeeth-background.webp') 0 0/cover #111
 }
 
 .img {
   width: calc(var(--s)*1.5);
   top: -70%;
-  background: url('priyeshsir-vidhyapeeth-slogan.webp') 0 0/cover;
+  background: url('https://opjscoder.github.io/Projects/Gift/priyeshsir-vidhyapeeth-slogan.webp') 0 0/cover;
   height: calc(var(--s)*.24)
 }
 
